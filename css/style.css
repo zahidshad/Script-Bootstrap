@@ -1,0 +1,29 @@
+.box{
+	background-color: #eee;
+	padding: 10px;
+}
+.portfolio{
+	background-color: #eee;
+
+}
+.portfolio h1{
+	text-align: center;
+	padding: 20px 0;
+}
+.conatiner-fluid{}
+.conatiner-fluid ul{
+    /* text-decoration:  none; */
+    /* display:  inline-block; */
+    text-align:  center;
+    padding-right: 43px;
+}
+.conatiner-fluid ul li{
+    display:  inline-block;
+    /* text-decoration:  none; */
+    text-align:  center;
+    padding-right:  15px;
+}
+.conatiner-fluid ul li a{
+	text-decoration: none;
+	display:  inline-block;
+}
